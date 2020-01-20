@@ -2,6 +2,7 @@
 <resources>
     <string-array name="themes">
         <item>default</item>
-        <item>kronicgreen</item>
+        <item>electrigreen</item>
+        <item>throwback</item>
     </string-array>
 </resources>
